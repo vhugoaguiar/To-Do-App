@@ -19,6 +19,7 @@ As the developer continues to advance in their web development skills, they plan
 
 - **Local Storage:** Save user changes locally to persist data between sessions.
 - **Backend Integration:** Explore backend technologies to enhance the application with server-side capabilities.
+- **Search Functionality:** Implement a search bar to allow users to quickly find and filter tasks based on keywords or titles.
 
 ## Author's Note
 
